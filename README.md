@@ -1,7 +1,7 @@
 ## Overview
 ## Requirements
 The following minimum requirements need to be met for both the mobile application and DHIS2 metadata package;
-* Android version 11 and above
+* Android version 10 and above
 * DHIS2 version 2.35 and above
 ## Installation
 ### Mobile Application
