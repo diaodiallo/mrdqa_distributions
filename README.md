@@ -5,7 +5,7 @@ The following minimum requirements need to be met for both the mobile applicatio
 * DHIS2 version 2.35 and above
 ## Installation
 ### Mobile Application
-The android mobile application installer is distributed as an APK (Android Package Kit) available on the this git repository. In the future, we plan to distribute this APK through Google Play Store as it provides so many security measures. The instructions below work from Android version 11 and above.
+The android mobile application installer is distributed as an APK (Android Package Kit) available on the this git repository. In the future, we plan to distribute this APK through Google Play Store as it provides so many security measures. The instructions below work from Android version 10 and above.
 1.  Download the APK version you want to install.
 2.  Navigate to your Download folder using a file browser app or simply begin the install by clicking on the completed download in your mobile browser.
 3.  Android will ask you to grant permission to either the file browser or your web browser to install the app. Grant the permission and it should redirect you back to the installation screen. If not, navigate back to your Download folder after granting the permission to try again.
