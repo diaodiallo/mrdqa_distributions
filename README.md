@@ -3,7 +3,7 @@
 The following minimum requirements need to be met for both the mobile application and DHIS2 metadata package;
 * Android version 10 and above
 * DHIS2 version 2.35 and above
-* From the version 5.x of the app you need the 2.x version of the dhis2 package
+* From the version 5.1.x of the app you need the 3.x version of the dhis2 package
 ## Installation
 ### Mobile Application
 The android mobile application installer is distributed as an APK (Android Package Kit) available on the this git repository. In the future, we plan to distribute this APK through Google Play Store as it provides so many security measures. The instructions below work from Android version 10 and above.
